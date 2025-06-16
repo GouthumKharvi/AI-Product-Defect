@@ -147,7 +147,7 @@ All logs are stored in a dedicated folder (`monitoring_logs`) within the project
 ## Author
 
 **Gouthum Kharvi**
-Email: \[[your.email@example.com](gouthumkharvi1899@.com)]
+Email: \[(gouthumkharvi1899@.com)]
 GitHub: [https://github.com/gouthumkharvi](https://github.com/gouthumkharvi)
 
 ---
