@@ -1,6 +1,3 @@
-Got it! Here’s a detailed, comprehensive README in Markdown format that covers your entire AI Defect Detection project—from start to finish, including tools, models, monitoring, and more. You can paste it directly into your GitHub README.md file.
-
----
 
 ````markdown
 # 🧪 AI Defect Detection App
@@ -150,7 +147,7 @@ All logs are stored in a dedicated folder (`monitoring_logs`) within the project
 ## Author
 
 **Gouthum Kharvi**
-Email: \[[your.email@example.com](mailto:your.email@example.com)]
+Email: \[[your.email@example.com](gouthumkharvi1899@.com)]
 GitHub: [https://github.com/gouthumkharvi](https://github.com/gouthumkharvi)
 
 ---
