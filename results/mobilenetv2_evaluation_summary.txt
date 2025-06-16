@@ -1,0 +1,13 @@
+Confusion Matrix:
+[[133   1]
+ [294 105]]
+
+Classification Report:
+              precision    recall  f1-score     support
+0_good         0.311475  0.992537  0.474153  134.000000
+1_defective    0.990566  0.263158  0.415842  399.000000
+accuracy       0.446529  0.446529  0.446529    0.446529
+macro avg      0.651021  0.627848  0.444997  533.000000
+weighted avg   0.819838  0.446529  0.430502  533.000000
+
+ROC AUC Score: 0.8021
