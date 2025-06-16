@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2025-06-15 20:12:50.995517 | Model: MobileNetV2 🔁 | Prediction:  ⚠️ Defective product detected: not suitable for sale or use (1) | Feedback: Yes
 2025-06-15 22:59:55.122541 | Model: MobileNetV2 🔁 | Prediction:  ⚠️ Defective product detected: not suitable for sale or use (1) | Feedback: Yes
 2025-06-15 23:10:57.589046 | Model: MobileNetV2 🔁 | Prediction: ✅ High-quality product approved for delivery and customer use (0) | Feedback: No
@@ -5,3 +6,12 @@
 2025-06-16 05:54:40.634095 | Model: Custom CNN 🧠 | Prediction: ✅ High-quality product approved for delivery and customer use (0) | Feedback: No
 2025-06-16 07:10:46.612932 | Model: MobileNetV2 🔁 | Prediction: ✅ High-quality product approved for delivery and customer use (0) | Feedback: No
 2025-06-16 07:22:29.053124 | Model: MobileNetV2 🔁 | Prediction: ✅ High-quality product approved for delivery and customer use (0) | Feedback: No
+=======
+2025-06-15 20:12:50.995517 | Model: MobileNetV2 🔁 | Prediction:  ⚠️ Defective product detected: not suitable for sale or use (1) | Feedback: Yes
+2025-06-15 22:59:55.122541 | Model: MobileNetV2 🔁 | Prediction:  ⚠️ Defective product detected: not suitable for sale or use (1) | Feedback: Yes
+2025-06-15 23:10:57.589046 | Model: MobileNetV2 🔁 | Prediction: ✅ High-quality product approved for delivery and customer use (0) | Feedback: No
+2025-06-16 00:08:49.258688 | Model: Custom CNN 🧠 | Prediction: ✅ High-quality product approved for delivery and customer use (0) | Feedback: No
+2025-06-16 05:54:40.634095 | Model: Custom CNN 🧠 | Prediction: ✅ High-quality product approved for delivery and customer use (0) | Feedback: No
+2025-06-16 07:10:46.612932 | Model: MobileNetV2 🔁 | Prediction: ✅ High-quality product approved for delivery and customer use (0) | Feedback: No
+2025-06-16 07:22:29.053124 | Model: MobileNetV2 🔁 | Prediction: ✅ High-quality product approved for delivery and customer use (0) | Feedback: No
+>>>>>>> 67bf31b040a6ab11782d8fbb67b4333cb2a2e60b
