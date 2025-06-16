@@ -1,11 +1,8 @@
 streamlit
-tensorflow==2.13.0
-numpy
-Pillow
-streamlit
 tensorflow
-numpy
+keras
 pillow
-opencv-python
 matplotlib
+opencv-python
+numpy
 
