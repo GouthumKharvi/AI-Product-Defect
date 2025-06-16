@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit
 tensorflow==2.13.0
 numpy
@@ -11,7 +10,3 @@ pillow
 opencv-python
 matplotlib
 
-
-
-
->>>>>>> 67bf31b040a6ab11782d8fbb67b4333cb2a2e60b
